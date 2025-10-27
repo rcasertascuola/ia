@@ -1,0 +1,1019 @@
+# Dataset title: Dataset Abitudini Sportive
+# Numero di campioni: 1000
+# Bias: 0.54
+# Bilanciamento: 49.10%
+# Colonna 'ore_settimanali_allenamento': 58 valori NaN
+# Colonna 'frequenza_allenamento': 46 valori NaN
+# Colonna 'tipo_sport_praticato': 64 occorrenze di -999
+# Colonna 'soddisfazione_allenamento': 58 occorrenze di -999
+# Colonna 'attrezzatura_comprata_annualmente': 59 occorrenze di -999
+# Colonna 'obiettivo_allenamento_label': 59 occorrenze di ***
+# Colonna 'obiettivo_allenamento': 48 occorrenze di -999
+# Colonna 'frequenza_infortuni_label': 48 occorrenze di ***
+# Colonna 'frequenza_infortuni': 42 occorrenze di -999
+# Colonna 'alimentazione_durante_allenamento_label': 68 occorrenze di ***
+# Colonna 'alimentazione_durante_allenamento': 68 occorrenze di -999
+# Colonna 'tempo_riposo_settimanale_label': 36 occorrenze di ***
+# Colonna 'tempo_riposo_settimanale': 36 occorrenze di -999
+# Colonna 'Y': 64 occorrenze di -999
+ore_settimanali_allenamento,frequenza_allenamento,tipo_sport_praticato,soddisfazione_allenamento,attrezzatura_comprata_annualmente,obiettivo_allenamento_label,obiettivo_allenamento,frequenza_infortuni_label,frequenza_infortuni,alimentazione_durante_allenamento_label,alimentazione_durante_allenamento,tempo_riposo_settimanale_label,tempo_riposo_settimanale,Y
+8.18,4.2,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+7.53,3.75,2,2,4,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+,3.84,1,2,2,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+9.43,4.82,3,4,6,Altro,3,Sempre,3,Altro,3,Bassa,-999,-999
+6.02,3.63,1,2,4,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+7.04,4.45,1,2,2,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+1.54,1.33,1,1,6,Perdita peso,0,Mai,0,Equilibrata,-999,***,0,1
+6.85,4.11,1,2,1,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+6.42,4.19,2,-999,-999,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Bassa,2,1
+3.01,1.68,1,2,9,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.25,3.32,3,2,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+,3.86,2,1,1,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+8.46,4.91,4,4,2,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+8.2,4.47,-999,4,6,Altro,3,Sempre,3,Proteica,1,Media,1,0
+3.3,2.43,1,1,1,Perdita peso,0,Mai,-999,***,0,Alta,-999,-999
+3.93,2.38,2,2,2,Perdita peso,0,Mai,0,***,0,Media,1,1
+8.02,4.23,-999,3,5,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+2.55,2.56,2,1,3,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.16,4.25,4,3,2,Altro,3,Spesso,2,***,2,Media,1,0
+6.97,4.58,3,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,0
+6.79,4.22,3,4,3,Altro,3,Sempre,3,***,2,Media,1,0
+6.52,4.57,-999,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Bassa,2,1
+6.91,3.25,2,2,1,Allenamento cardiovascolare,2,Mai,0,Equilibrata,0,Media,1,0
+6.74,4.48,3,-999,-999,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+3.11,3.04,1,1,2,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+8.28,5.6,2,2,1,***,-999,Raramente,1,Equilibrata,0,Alta,0,0
+,4.78,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+5.21,2.79,1,3,4,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+9.31,,3,3,5,Altro,3,Spesso,2,***,2,Media,1,0
+7.08,3.01,2,3,3,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+6.15,4.33,2,2,0,Perdita peso,0,***,1,Equilibrata,0,Bassa,2,1
+5.15,2.54,3,2,6,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+7.24,2.67,2,2,4,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+6.43,3.84,2,3,2,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,0
+6.3,4.08,3,2,4,Perdita peso,0,Raramente,1,Proteica,1,Bassa,2,1
+7.76,4.16,4,4,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+10.01,4.75,4,3,1,Altro,3,Raramente,1,Carboidrati,2,Bassa,2,0
+7.28,4.17,3,-999,-999,***,-999,Spesso,2,Carboidrati,2,Media,1,0
+7.36,3.82,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+4.54,2.58,1,1,1,***,-999,Mai,0,Equilibrata,0,Alta,0,1
+6.89,4.35,-999,2,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+7.32,4.1,2,2,3,Perdita peso,0,Raramente,1,Altro,3,Media,1,1
+8.09,4.85,4,4,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+6.82,3.12,2,-999,-999,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+9.83,,4,3,3,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+8.64,3.73,3,2,1,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+8.58,5.49,3,2,2,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Bassa,2,0
+9.28,4.19,4,3,2,Allenamento cardiovascolare,2,Raramente,-999,***,3,Media,1,0
+5.15,3.36,-999,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.16,3.6,2,3,5,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+5.42,3.34,1,2,1,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+6.45,4.44,4,1,1,Miglioramento muscolare,1,Raramente,1,Altro,3,Bassa,2,-999
+15.0,7.0,4,4,4,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+8.89,5.26,3,2,3,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,0
+4.52,3.06,1,2,0,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+2.97,2.77,1,1,0,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+4.92,2.94,1,2,9,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+6.71,,3,3,3,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+6.39,3.48,-999,2,4,Perdita peso,0,Mai,0,Equilibrata,0,Alta,-999,-999
+6.18,3.0,3,-999,-999,Perdita peso,0,Mai,0,Proteica,1,Bassa,2,1
+7.37,5.57,2,2,0,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+11.58,6.24,3,4,5,Altro,3,Spesso,2,Carboidrati,-999,Bassa,2,0
+10.84,6.27,4,3,0,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+3.97,2.99,1,2,5,Miglioramento muscolare,1,***,0,Equilibrata,0,Alta,0,1
+10.72,5.34,3,4,1,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+9.5,4.24,-999,4,4,***,-999,Spesso,2,Altro,3,Bassa,2,0
+7.99,4.4,2,4,4,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,0
+6.55,3.77,4,3,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+8.11,3.11,2,4,1,***,-999,Spesso,2,Altro,3,Alta,0,0
+5.01,2.96,1,2,2,Miglioramento muscolare,1,Mai,0,Proteica,1,Alta,0,1
+5.2,3.49,1,4,4,***,-999,Raramente,1,Equilibrata,0,Alta,0,-999
+5.45,2.59,1,1,6,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+,3.94,2,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.68,4.74,3,2,1,Miglioramento muscolare,1,Raramente,1,Altro,3,Media,1,0
+7.59,4.87,3,1,1,Perdita peso,0,Raramente,1,Proteica,1,Bassa,2,1
+8.38,4.34,4,4,3,Altro,3,Sempre,3,Carboidrati,-999,***,2,0
+11.3,6.09,4,-999,-999,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,0
+5.84,2.68,2,1,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+8.37,3.78,4,4,3,Altro,3,Sempre,3,***,3,Media,-999,-999
+8.13,4.62,3,2,1,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,0
+9.36,4.26,3,4,0,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+4.25,2.77,1,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+11.03,5.24,4,4,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.46,4.04,3,3,1,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Media,1,0
+7.25,3.1,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.63,4.03,3,3,0,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Alta,0,1
+6.55,2.73,1,2,0,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,-999
+10.27,4.99,2,3,1,Altro,3,Raramente,1,Proteica,1,Media,1,0
+6.29,3.11,2,2,1,Miglioramento muscolare,1,Raramente,1,***,1,Media,1,1
+7.21,3.1,3,4,2,Altro,3,Spesso,2,Altro,3,Media,1,0
+8.83,4.57,-999,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Alta,0,0
+11.01,6.86,3,3,3,Allenamento cardiovascolare,2,***,3,Carboidrati,2,Bassa,2,0
+4.69,2.64,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+,3.91,3,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Bassa,2,1
+7.67,3.36,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+7.62,4.29,3,-999,-999,***,-999,Raramente,1,Proteica,1,Bassa,2,0
+7.1,3.94,2,2,5,Miglioramento muscolare,1,Raramente,1,Proteica,-999,***,1,1
+,3.6,2,2,3,Miglioramento muscolare,1,Spesso,2,Proteica,1,Bassa,2,1
+6.82,4.08,2,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+10.18,5.37,3,4,3,Altro,3,Spesso,2,Proteica,1,Bassa,2,0
+,2.91,3,4,1,***,-999,Sempre,3,Altro,3,Bassa,2,0
+9.13,5.26,2,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+10.89,5.73,3,4,1,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+,4.96,4,3,3,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+9.54,4.4,4,4,2,Altro,3,Sempre,3,Altro,-999,Bassa,2,0
+7.65,4.48,-999,2,0,***,-999,Raramente,1,Equilibrata,0,Media,1,1
+10.56,4.75,3,4,3,Altro,3,Spesso,2,Altro,3,Media,1,0
+,,2,1,1,Perdita peso,0,Raramente,1,Proteica,1,Media,1,-999
+8.39,4.94,3,2,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+4.48,3.05,-999,2,1,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+7.7,5.42,2,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,0
+7.96,4.63,3,3,5,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Bassa,2,0
+7.77,4.06,3,3,5,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,0
+7.02,4.96,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+6.24,3.87,3,3,8,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Media,1,0
+5.99,3.51,-999,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,-999,-999
+12.05,5.65,4,4,0,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+7.71,4.55,2,2,6,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,0
+2.01,2.63,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.71,4.36,4,3,2,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+9.51,4.63,2,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+10.1,5.02,3,4,7,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+6.57,4.0,1,2,3,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.03,,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.57,3.77,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+9.42,3.97,3,2,1,Altro,3,Raramente,-999,***,3,Bassa,2,0
+4.31,2.78,1,2,3,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+7.43,4.07,2,1,1,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+7.45,4.42,3,4,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+,3.4,3,2,3,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+7.89,4.96,2,2,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+6.8,3.45,2,4,5,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+5.39,3.36,1,2,2,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+5.61,3.52,3,3,4,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,0
+5.77,3.9,2,2,4,Miglioramento muscolare,1,Spesso,2,Carboidrati,-999,***,-999,-999
+8.42,5.61,3,3,5,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Media,1,0
+7.96,4.13,3,3,5,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+7.11,3.78,2,3,2,Miglioramento muscolare,1,***,1,Equilibrata,0,Media,1,0
+10.75,6.22,4,4,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+5.35,2.51,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.16,,3,3,5,Allenamento cardiovascolare,2,Spesso,-999,***,2,Bassa,2,0
+4.36,2.93,2,1,2,Perdita peso,0,Mai,0,Proteica,1,Bassa,-999,-999
+6.18,3.1,2,1,2,Perdita peso,0,Mai,0,Proteica,1,Alta,-999,-999
+8.15,3.88,4,4,2,Altro,3,Spesso,2,Altro,3,Media,1,0
+,3.49,3,4,0,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+5.8,3.07,2,2,2,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+5.73,3.33,2,4,1,Miglioramento muscolare,1,Spesso,2,Proteica,1,Alta,0,1
+5.53,3.93,1,2,8,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+6.51,2.18,2,3,5,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Media,1,1
+3.22,1.74,1,1,3,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.52,4.01,2,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+8.38,3.53,3,3,5,Altro,3,Raramente,-999,***,2,Bassa,2,1
+8.55,4.84,4,3,3,***,-999,***,2,Altro,3,Bassa,2,0
+7.51,,2,3,0,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,0
+8.49,3.77,-999,3,4,Allenamento cardiovascolare,2,Raramente,-999,***,2,Bassa,2,0
+5.17,,1,-999,-999,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+10.21,5.2,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+4.66,2.71,2,2,0,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+6.04,3.39,1,3,2,Miglioramento muscolare,1,Spesso,2,Equilibrata,0,Alta,0,1
+2.49,2.43,1,2,4,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+10.84,4.66,4,4,1,Altro,3,Spesso,2,Altro,-999,Bassa,2,0
+,5.31,4,4,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+8.13,2.91,2,4,0,Altro,3,Raramente,1,Carboidrati,2,Alta,0,0
+8.97,4.28,3,4,1,Altro,3,Spesso,2,Carboidrati,-999,***,2,0
+8.59,,2,2,4,***,0,Mai,-999,***,1,Media,1,1
+6.6,2.73,2,2,1,***,-999,Mai,-999,***,0,Media,1,1
+7.7,4.08,2,2,1,***,-999,Spesso,2,Carboidrati,2,Media,1,1
+7.65,4.79,3,4,0,***,-999,Sempre,3,Altro,3,Bassa,2,0
+11.06,5.25,3,4,0,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+4.85,3.75,1,2,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+8.62,5.47,3,3,3,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+5.57,3.16,1,2,5,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+8.27,4.46,2,2,2,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+6.05,2.7,1,3,1,Miglioramento muscolare,1,Spesso,2,Equilibrata,0,Media,1,1
+3.55,3.19,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.33,3.4,2,2,2,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+6.6,3.35,3,4,2,Allenamento cardiovascolare,2,***,2,Altro,3,Media,1,0
+4.56,3.06,2,2,0,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+9.28,4.78,3,3,0,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+9.44,4.75,4,4,1,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+9.51,5.29,3,4,0,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+9.9,4.45,3,4,4,Altro,3,Spesso,2,Altro,3,Media,1,0
+7.35,5.18,2,2,0,***,-999,Mai,0,Equilibrata,0,Alta,0,0
+5.93,4.15,3,2,7,Perdita peso,0,Mai,0,Proteica,1,Media,1,0
+6.42,3.09,3,3,0,Altro,3,Raramente,1,Proteica,1,Bassa,2,0
+7.2,3.64,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+5.54,3.68,1,2,3,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+5.21,4.11,3,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+3.81,3.38,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.18,3.86,2,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+7.86,4.66,3,2,1,Miglioramento muscolare,1,Mai,0,Carboidrati,2,Media,1,1
+5.44,3.28,2,2,1,Miglioramento muscolare,1,Mai,0,Proteica,1,Alta,0,1
+4.82,3.19,2,1,2,Perdita peso,0,Mai,0,Proteica,1,Bassa,2,1
+10.24,5.07,3,3,2,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+3.42,1.96,1,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+10.01,5.24,4,3,4,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,0
+6.7,4.09,4,2,4,Miglioramento muscolare,1,Spesso,2,Altro,3,Bassa,2,0
+3.62,3.87,1,1,4,***,-999,Mai,0,Equilibrata,0,Alta,0,1
+6.58,5.01,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+9.37,4.92,3,4,2,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+4.52,2.55,1,2,2,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+8.91,4.48,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+5.79,3.76,3,3,2,***,-999,Spesso,2,Carboidrati,2,Bassa,2,1
+3.38,2.8,1,1,8,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+6.76,4.04,2,2,3,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+4.69,3.36,1,1,3,Perdita peso,0,Mai,0,Equilibrata,-999,***,1,1
+4.76,3.55,2,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.62,4.47,3,4,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+10.59,5.55,3,-999,-999,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+12.61,6.38,3,4,2,Altro,3,Spesso,2,Altro,3,Media,1,0
+6.97,4.53,-999,3,1,Miglioramento muscolare,1,Raramente,1,***,0,Alta,0,0
+6.04,4.0,1,1,4,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+9.19,3.82,3,4,3,***,-999,Spesso,2,Altro,3,Media,1,0
+6.43,3.5,1,3,5,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+6.42,,2,2,0,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+6.04,3.08,1,1,7,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+3.04,2.84,1,-999,-999,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,-999,-999
+8.4,4.61,2,3,0,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+4.59,3.07,1,3,5,Miglioramento muscolare,1,Spesso,2,Proteica,1,Alta,0,1
+,5.6,3,2,4,Altro,3,Spesso,2,Proteica,1,Bassa,2,0
+8.72,3.72,3,4,1,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+11.65,,3,4,4,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+8.17,4.4,2,3,5,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,1
+6.44,4.37,2,4,7,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Media,1,1
+6.91,4.41,2,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+10.7,4.97,4,4,4,Allenamento cardiovascolare,2,***,3,Altro,3,Bassa,2,0
+8.21,4.51,3,3,-999,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,0
+12.07,5.6,4,4,3,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+8.53,5.48,2,2,6,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+4.97,3.7,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.12,1.73,1,2,4,Perdita peso,0,Mai,0,Equilibrata,0,Bassa,2,1
+9.36,5.02,2,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+5.13,2.52,1,2,6,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+7.65,3.83,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,0
+,4.1,3,2,1,Perdita peso,0,Raramente,1,***,1,Bassa,2,1
+8.72,5.53,3,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,0
+6.91,4.47,3,3,2,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Media,1,0
+5.75,3.8,-999,2,4,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+7.58,3.61,-999,4,2,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+7.19,3.04,3,2,5,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Bassa,2,1
+9.02,4.28,4,2,0,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+9.19,4.93,1,2,0,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+10.96,5.0,3,4,4,Altro,3,Sempre,3,Carboidrati,2,Alta,0,0
+5.47,3.88,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Bassa,2,1
+9.31,4.68,3,4,0,Allenamento cardiovascolare,2,Spesso,2,***,2,Media,1,0
+6.96,4.22,1,2,2,***,-999,Raramente,1,Proteica,1,Alta,0,1
+5.81,3.31,2,2,2,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+6.81,4.43,2,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+6.57,3.0,3,2,1,Miglioramento muscolare,1,Mai,0,Carboidrati,-999,Bassa,2,1
+1.03,1.0,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+4.68,3.26,1,1,4,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Bassa,2,1
+9.71,4.66,4,3,0,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+7.07,4.19,1,2,5,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,-999,-999
+9.26,4.93,3,4,1,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+5.68,3.88,3,2,1,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Bassa,2,1
+6.24,4.43,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+8.73,4.36,4,2,2,Allenamento cardiovascolare,2,Raramente,-999,***,-999,***,1,0
+5.59,4.3,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.44,4.3,3,3,1,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+11.21,4.99,3,4,8,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+13.9,6.23,4,4,4,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+11.02,5.04,4,4,2,Altro,3,***,1,Altro,3,Bassa,2,0
+6.22,3.31,2,-999,-999,Miglioramento muscolare,1,Mai,0,Equilibrata,-999,Alta,0,1
+7.29,4.14,1,3,1,Miglioramento muscolare,1,Spesso,2,Equilibrata,0,Alta,0,1
+11.64,,3,4,10,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+,6.37,4,4,1,***,3,Sempre,3,Altro,3,Bassa,2,0
+,5.02,3,2,2,Altro,3,Raramente,1,Carboidrati,2,Bassa,-999,-999
+7.39,3.55,2,3,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Alta,0,0
+8.33,4.15,-999,2,1,Perdita peso,0,Mai,0,Carboidrati,2,Media,1,1
+4.27,3.18,1,2,2,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+10.0,5.67,3,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+7.08,3.87,4,4,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+7.01,3.84,2,3,1,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Bassa,2,0
+,2.75,2,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+7.33,,1,2,1,Miglioramento muscolare,1,Raramente,1,***,1,Media,1,1
+3.42,3.45,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.62,3.27,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+5.18,,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.66,3.28,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.43,3.78,2,2,0,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,1
+6.42,3.61,2,2,3,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.79,3.91,2,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.16,3.78,1,2,4,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+7.97,4.74,3,2,1,Miglioramento muscolare,1,***,1,Carboidrati,2,Bassa,2,0
+11.83,6.42,4,3,5,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+5.92,3.43,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+4.71,3.06,1,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.14,4.27,3,2,3,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+,4.82,2,3,6,Miglioramento muscolare,1,***,2,Proteica,1,Bassa,2,1
+9.99,4.19,3,3,0,Altro,3,Raramente,1,Proteica,1,Alta,0,0
+10.61,4.35,4,4,2,***,-999,***,1,Carboidrati,2,Media,1,0
+5.84,2.97,1,2,1,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+7.27,4.57,2,-999,-999,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,0
+6.16,4.35,1,2,3,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+,4.35,2,3,1,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,0,0
+8.1,4.26,4,-999,-999,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+,2.64,1,2,3,Perdita peso,0,Raramente,1,Proteica,-999,***,1,1
+6.56,3.85,3,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,1
+6.87,3.46,1,2,0,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+8.99,4.65,4,4,1,Altro,3,***,2,Carboidrati,2,Bassa,2,0
+,3.86,1,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+7.76,3.55,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.37,2.91,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+3.7,1.67,1,1,3,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.68,2.88,2,3,2,Allenamento cardiovascolare,2,Raramente,1,Equilibrata,0,Bassa,2,0
+9.46,5.32,4,4,1,Allenamento cardiovascolare,2,Spesso,-999,***,2,Bassa,2,0
+7.38,3.72,1,1,2,Perdita peso,0,***,0,Equilibrata,0,Alta,0,1
+7.29,4.27,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.79,3.44,-999,3,4,Allenamento cardiovascolare,2,Spesso,2,Equilibrata,0,Media,1,1
+5.65,3.06,2,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,1
+6.43,4.29,2,2,0,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,1
+4.48,2.76,1,1,5,Perdita peso,0,Mai,0,Equilibrata,-999,***,0,1
+,4.8,4,4,4,Altro,3,***,2,Altro,3,Media,1,0
+4.68,3.29,2,-999,-999,Allenamento cardiovascolare,2,Sempre,3,Proteica,1,Media,-999,-999
+8.15,5.24,3,4,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+12.07,5.72,4,4,3,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+10.18,5.16,3,4,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+12.24,6.04,3,4,0,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+5.55,3.26,2,2,4,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+4.51,2.21,2,3,1,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+9.38,4.67,3,4,4,Allenamento cardiovascolare,2,Sempre,3,***,1,Bassa,2,0
+5.95,2.31,1,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+9.95,5.23,4,2,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+6.51,3.48,3,2,5,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+11.44,5.09,4,4,2,Altro,3,Spesso,-999,***,3,Bassa,2,0
+7.52,4.31,2,2,5,Perdita peso,0,Mai,0,Proteica,1,Bassa,2,1
+12.5,6.08,3,4,3,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+5.85,4.05,3,3,3,Miglioramento muscolare,1,Spesso,2,Proteica,1,Bassa,2,0
+7.12,3.76,2,-999,-999,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,-999,-999
+4.4,2.35,1,2,1,Perdita peso,0,***,1,Proteica,1,Media,1,1
+10.09,5.36,3,3,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+5.0,3.11,2,-999,-999,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+6.28,2.83,2,2,2,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,1
+,4.52,2,3,4,Allenamento cardiovascolare,2,Sempre,3,Proteica,1,Media,1,1
+11.56,5.09,4,4,3,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+8.16,5.47,-999,3,8,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,1
+7.94,,2,3,5,Miglioramento muscolare,1,Spesso,2,Equilibrata,0,Media,1,0
+7.31,3.46,3,2,0,Perdita peso,0,Mai,0,Proteica,1,Bassa,2,1
+5.73,2.87,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,-999
+5.8,4.19,1,2,2,Allenamento cardiovascolare,2,Spesso,2,***,0,Alta,0,1
+5.93,3.25,1,2,2,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+4.76,3.01,2,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+5.72,2.89,2,3,3,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+8.73,4.09,3,3,9,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,1
+6.48,3.0,1,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+11.37,5.22,4,4,1,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+3.11,2.32,1,2,2,Perdita peso,0,Mai,0,Proteica,-999,Alta,0,1
+5.02,2.23,-999,1,2,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+6.47,4.37,2,-999,-999,Perdita peso,0,Mai,0,***,0,Bassa,2,0
+9.91,4.5,3,3,6,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+4.71,2.98,1,2,2,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+5.4,3.54,1,2,3,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+,3.85,2,4,4,Altro,3,Spesso,2,Equilibrata,0,Media,-999,-999
+,4.94,3,4,5,Altro,3,Raramente,1,Carboidrati,2,Media,1,0
+3.86,,1,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.74,4.15,2,1,3,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+10.47,4.66,4,3,0,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+8.31,4.29,-999,4,5,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,0
+7.15,3.91,1,-999,-999,***,-999,Mai,0,Proteica,1,Alta,0,1
+4.58,2.98,1,-999,-999,***,-999,Mai,0,Equilibrata,0,Media,1,1
+2.38,2.32,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+,4.37,3,4,3,Altro,3,Spesso,2,Carboidrati,-999,***,2,0
+8.15,3.52,3,4,2,Altro,3,Spesso,-999,***,2,Bassa,2,0
+5.3,2.62,2,1,0,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+5.75,4.2,1,2,1,Perdita peso,0,Spesso,2,Proteica,1,Alta,0,1
+8.36,4.8,3,3,0,Allenamento cardiovascolare,2,Raramente,1,Proteica,-999,***,2,0
+5.23,3.19,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,-999
+6.68,4.16,2,3,1,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+,3.05,1,2,1,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+5.92,3.62,2,3,0,Perdita peso,0,Spesso,2,Proteica,1,Media,1,1
+8.41,3.85,2,4,1,Altro,3,Spesso,2,Proteica,1,Alta,0,0
+9.2,4.54,3,4,5,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+,4.67,3,4,4,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+3.14,1.96,1,1,7,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+10.46,5.4,4,4,0,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Media,1,0
+,3.63,1,4,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Alta,0,0
+8.56,4.58,3,3,5,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Bassa,2,0
+5.94,3.69,1,2,2,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+10.46,,3,4,3,Altro,3,Sempre,-999,***,2,Bassa,2,0
+,4.55,3,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+7.16,4.45,3,3,2,Altro,3,Spesso,2,Proteica,1,Media,1,0
+7.25,4.02,2,-999,-999,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,1
+7.86,4.12,2,3,3,Allenamento cardiovascolare,2,Spesso,2,Equilibrata,0,Media,1,0
+4.07,2.8,2,1,1,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+6.34,3.08,1,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,-999,-999
+6.34,3.88,1,2,1,Perdita peso,0,***,0,Equilibrata,0,Media,1,1
+4.06,2.76,1,2,4,Perdita peso,0,Mai,0,***,0,Alta,0,1
+7.25,4.19,2,2,1,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+10.13,5.24,3,4,1,Altro,3,***,-999,***,3,Bassa,2,0
+7.44,3.16,4,2,1,Miglioramento muscolare,1,Raramente,1,Altro,3,Bassa,2,1
+9.05,4.89,3,4,4,Allenamento cardiovascolare,2,***,3,Carboidrati,-999,***,1,0
+7.76,4.79,3,3,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+5.44,3.04,1,4,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.75,3.92,1,2,1,Perdita peso,0,Raramente,1,***,1,Media,1,1
+8.44,4.62,3,-999,-999,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+11.11,5.2,4,3,3,Altro,3,***,3,Altro,3,Bassa,2,0
+6.44,3.17,3,2,1,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Bassa,2,1
+8.14,3.09,2,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,1
+10.88,5.76,4,4,1,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Bassa,2,0
+8.81,5.03,-999,3,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+5.29,3.13,1,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+12.08,4.72,-999,4,5,***,2,Spesso,2,Carboidrati,-999,***,1,0
+5.51,3.15,1,2,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.9,3.88,2,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+12.42,5.77,3,4,3,Altro,3,Spesso,2,***,2,Bassa,2,0
+4.24,3.21,1,2,4,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+5.68,3.72,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.66,3.86,1,2,2,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+3.08,2.04,1,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+2.85,1.99,1,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+7.34,3.85,3,3,3,Allenamento cardiovascolare,2,Spesso,-999,***,-999,Media,1,0
+4.88,1.71,2,2,1,***,-999,Mai,0,Equilibrata,0,Alta,0,1
+2.52,2.61,1,1,0,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+5.34,3.52,3,3,1,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Media,1,1
+7.26,3.22,3,3,1,Allenamento cardiovascolare,2,Sempre,-999,***,3,Media,1,0
+9.26,4.45,3,4,1,Altro,3,Spesso,2,Altro,3,Alta,0,0
+4.3,2.41,1,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Bassa,2,1
+6.25,4.15,2,3,2,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+3.69,2.86,2,1,2,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+12.09,6.15,4,4,3,Altro,3,Spesso,2,Carboidrati,-999,Bassa,2,0
+9.82,5.01,2,3,0,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Alta,0,0
+5.3,1.98,2,2,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+7.95,3.47,4,4,2,Altro,3,Sempre,3,Carboidrati,2,Bassa,-999,-999
+9.18,,4,4,0,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+6.03,3.67,-999,2,7,Perdita peso,0,Raramente,1,Proteica,1,Bassa,2,1
+6.35,2.56,1,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,-999,***,1,1
+8.88,3.41,2,3,2,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Media,1,0
+6.03,2.84,2,3,0,Perdita peso,0,Raramente,1,Proteica,1,Bassa,2,1
+7.51,3.43,4,4,3,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+8.05,3.09,3,4,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+7.49,4.21,2,1,6,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,1
+4.65,3.47,1,1,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+,5.23,4,4,3,Altro,3,Spesso,2,Altro,3,Media,1,0
+7.05,4.02,-999,2,1,Perdita peso,0,***,0,Equilibrata,0,Alta,0,1
+9.72,5.19,-999,4,5,Altro,3,***,3,Altro,3,Bassa,2,0
+8.38,4.9,3,-999,-999,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,0
+5.09,2.6,2,1,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+6.61,4.67,1,2,2,Perdita peso,0,Raramente,1,Proteica,1,Alta,-999,-999
+7.15,2.74,1,2,6,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,0,1
+6.8,3.57,3,3,4,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Bassa,2,0
+6.47,2.26,-999,2,0,Miglioramento muscolare,1,Mai,0,Proteica,1,Bassa,2,1
+4.38,2.0,1,2,0,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+4.36,2.34,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+9.86,4.75,3,-999,-999,Altro,3,Sempre,3,Altro,3,Bassa,2,-999
+,2.2,1,2,5,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+3.09,1.4,1,2,2,Perdita peso,0,Raramente,1,Proteica,1,Alta,-999,-999
+7.31,3.77,3,3,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,0
+4.99,3.6,1,1,1,Perdita peso,0,Mai,0,Equilibrata,-999,***,0,1
+9.18,5.2,2,-999,-999,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,0
+6.34,4.19,2,1,2,***,-999,Mai,0,Equilibrata,0,Media,1,1
+8.4,4.52,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+5.15,3.75,2,1,5,***,0,Mai,0,Equilibrata,0,Alta,0,1
+10.28,4.15,4,4,4,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Media,1,0
+6.57,4.45,1,3,2,***,1,Spesso,-999,***,0,Media,1,1
+5.53,3.18,1,3,3,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+9.11,5.52,3,2,0,Perdita peso,0,Mai,0,Carboidrati,2,Media,1,1
+,4.69,3,3,1,Altro,3,Raramente,1,Carboidrati,2,Media,1,-999
+8.37,4.07,3,4,0,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Bassa,2,0
+10.73,5.37,4,4,1,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+6.82,3.47,3,4,4,Altro,3,Spesso,-999,***,2,Alta,0,0
+4.22,3.55,1,1,2,Perdita peso,0,Raramente,1,***,1,Alta,0,1
+6.08,4.73,2,2,0,Perdita peso,0,Spesso,2,Equilibrata,-999,Bassa,2,1
+6.35,3.57,2,4,5,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,0
+4.43,3.18,1,1,4,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+12.49,6.93,4,4,7,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+9.18,,3,4,4,Altro,3,Spesso,2,Carboidrati,2,Alta,0,0
+4.14,,1,2,2,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+7.0,3.33,1,2,3,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+6.56,4.31,2,3,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+12.76,6.44,3,-999,-999,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+7.05,3.09,2,3,0,Allenamento cardiovascolare,2,Raramente,1,Proteica,-999,Alta,0,1
+7.51,4.97,2,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.87,3.6,3,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.17,3.75,2,-999,-999,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+6.94,3.71,2,-999,-999,Miglioramento muscolare,1,***,-999,***,1,Bassa,2,1
+,1.86,2,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.7,4.4,3,3,5,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Bassa,2,0
+9.41,4.49,-999,4,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Alta,0,0
+7.83,3.86,5,4,8,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+6.57,3.4,4,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+8.16,4.82,2,3,1,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+6.5,,2,-999,-999,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Bassa,2,1
+8.22,4.54,-999,4,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+5.75,4.25,2,2,1,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+4.56,3.5,1,2,0,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+7.07,4.01,4,2,0,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+8.82,5.32,4,2,1,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+9.47,,3,4,5,Altro,3,Spesso,2,Proteica,1,Media,1,0
+7.86,3.23,2,3,1,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Bassa,2,0
+10.37,5.41,3,2,5,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+7.6,4.26,3,3,2,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Media,1,0
+,2.72,1,2,1,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+4.14,3.13,1,1,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+8.17,5.39,3,2,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+6.79,,3,-999,-999,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+9.49,3.46,3,4,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+8.42,5.29,4,4,4,***,-999,***,3,Altro,3,Bassa,2,0
+8.87,4.54,3,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.46,3.35,2,4,0,***,2,Sempre,3,***,1,Media,1,-999
+7.66,3.88,1,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+5.41,3.34,-999,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+9.08,4.27,4,4,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+9.99,5.97,3,4,4,Altro,3,Spesso,2,Altro,3,Media,1,0
+6.63,2.5,3,2,0,Miglioramento muscolare,1,Mai,0,Carboidrati,2,Bassa,2,1
+7.92,4.29,3,2,5,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,0
+1.0,1.71,2,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+5.1,3.16,2,3,2,Miglioramento muscolare,1,Spesso,2,Carboidrati,-999,Alta,0,1
+10.59,5.73,-999,3,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,-999,-999
+5.67,3.56,2,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+5.3,3.24,2,2,1,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+5.09,3.16,2,2,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,1
+,3.86,2,2,4,***,-999,Mai,0,Equilibrata,0,Alta,0,1
+2.9,,-999,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.44,3.68,2,2,2,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,-999
+,,4,4,1,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Media,1,0
+6.5,3.88,1,3,3,Perdita peso,0,Raramente,1,Proteica,-999,***,0,1
+10.17,5.27,3,3,6,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+,4.5,1,3,3,Perdita peso,0,Spesso,2,Proteica,-999,***,1,1
+4.97,3.04,2,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+7.37,5.13,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Bassa,2,0
+8.89,5.65,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+6.09,3.83,3,2,2,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+2.91,2.31,1,1,3,Perdita peso,0,Mai,0,Equilibrata,-999,Alta,0,1
+3.97,2.44,1,1,5,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+7.28,4.57,1,2,3,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,-999,-999
+7.13,4.72,3,1,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,1
+4.0,2.21,1,2,0,Perdita peso,0,Raramente,1,Equilibrata,-999,Alta,0,1
+8.43,4.0,3,3,4,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+4.96,3.06,1,1,1,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+8.38,5.04,3,3,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,-999,***,1,0
+6.38,3.45,3,4,5,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,0
+6.95,3.8,2,4,5,Miglioramento muscolare,1,***,2,Proteica,1,Alta,0,-999
+8.69,4.87,2,-999,-999,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,-999
+9.33,4.54,3,3,1,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+5.64,3.77,-999,3,0,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Alta,0,1
+9.09,5.09,4,2,2,***,-999,Raramente,1,Carboidrati,2,Media,1,-999
+4.59,1.91,2,2,2,Perdita peso,0,Mai,0,Carboidrati,2,Media,1,1
+7.0,3.93,2,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,1
+8.52,4.42,3,4,1,Allenamento cardiovascolare,2,***,2,Carboidrati,2,Bassa,2,0
+9.77,5.55,3,4,1,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+11.72,5.65,4,4,1,Altro,3,Raramente,1,Altro,3,Bassa,2,0
+12.39,6.84,3,4,5,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Bassa,2,0
+6.15,2.9,2,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+5.7,3.42,1,4,8,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+9.75,5.23,4,4,1,Altro,3,Spesso,2,Carboidrati,2,Media,1,-999
+7.93,4.52,3,2,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+9.57,5.12,2,3,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+7.96,4.28,3,2,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+4.62,2.58,1,2,1,***,-999,Raramente,1,Equilibrata,0,Alta,0,1
+7.68,2.88,3,2,8,Allenamento cardiovascolare,2,Mai,0,Carboidrati,2,Media,1,0
+5.76,3.34,2,2,1,***,-999,Raramente,1,Proteica,-999,Media,1,1
+4.22,4.3,1,2,4,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+7.26,3.88,3,2,1,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+6.3,4.07,1,2,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+10.35,,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+7.98,4.56,2,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Bassa,2,0
+6.67,4.66,2,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+8.22,4.66,3,-999,-999,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+,4.94,3,4,5,Altro,3,Raramente,1,Carboidrati,2,Bassa,2,1
+10.25,,3,4,3,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+3.1,2.35,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+10.3,4.97,-999,4,1,Altro,3,Sempre,3,Altro,-999,***,-999,-999
+5.3,3.02,2,1,0,Perdita peso,0,Raramente,1,Equilibrata,-999,Media,1,1
+10.73,5.76,4,4,3,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+6.68,3.66,1,1,2,Perdita peso,0,***,0,Equilibrata,0,Media,1,1
+8.72,,3,-999,-999,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+8.17,4.97,4,4,4,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+5.48,3.57,2,1,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,-999
+7.6,5.26,3,3,5,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,0
+6.27,3.48,1,2,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+9.86,5.27,4,4,0,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+9.51,4.47,4,3,4,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+9.45,4.77,3,4,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+5.76,3.52,2,3,1,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+6.55,3.5,3,3,6,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+8.0,4.02,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+5.31,3.11,1,1,3,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Bassa,2,1
+,4.15,1,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,-999
+7.13,3.87,3,2,1,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+10.04,5.32,4,4,0,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+6.3,4.2,1,2,1,***,-999,Mai,0,Proteica,1,Media,1,1
+5.14,2.88,1,2,3,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+4.38,3.05,1,2,1,Perdita peso,0,Mai,-999,***,0,Alta,0,1
+8.64,4.4,4,4,3,Allenamento cardiovascolare,2,Spesso,2,Altro,-999,***,2,0
+,2.9,2,2,1,***,0,***,1,Proteica,1,Bassa,2,1
+11.08,5.64,4,4,4,Altro,3,Sempre,3,Carboidrati,2,Bassa,-999,-999
+6.5,,3,1,0,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,1
+5.87,2.47,-999,2,8,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,-999,-999
+7.94,3.66,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+9.63,4.95,4,4,0,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+1.46,1.88,1,2,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.11,4.83,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Alta,0,0
+6.4,3.14,2,4,4,***,2,Sempre,3,Proteica,1,Media,1,1
+,2.38,2,3,4,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+8.42,3.87,1,4,2,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Alta,0,1
+6.38,3.58,-999,3,2,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+7.6,3.97,2,2,5,Perdita peso,0,Mai,0,Carboidrati,2,Media,1,1
+6.69,4.19,2,2,2,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+3.82,3.4,1,3,7,Perdita peso,0,Spesso,2,Proteica,1,Media,1,1
+7.45,4.33,2,3,0,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Alta,0,1
+8.14,4.0,3,4,3,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+3.35,3.68,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+8.94,4.83,3,3,5,Altro,3,Spesso,-999,***,2,Media,1,0
+9.21,5.25,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+4.2,2.82,2,2,5,Miglioramento muscolare,1,Raramente,1,Carboidrati,-999,***,1,1
+,3.5,4,4,4,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+10.02,5.47,-999,-999,-999,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+9.95,4.22,3,4,4,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+12.45,5.96,3,4,5,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+5.6,3.05,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.7,3.39,1,3,0,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+4.03,3.0,1,2,4,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+3.91,2.28,-999,2,0,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+8.63,4.49,-999,3,3,Allenamento cardiovascolare,2,***,1,Proteica,1,Media,1,0
+6.22,,3,2,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+4.05,2.94,2,2,4,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+7.13,3.86,3,1,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Bassa,2,-999
+3.61,2.01,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+,1.38,2,2,1,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,1
+6.49,3.55,2,2,5,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,0,1
+8.46,4.67,2,3,3,Allenamento cardiovascolare,2,Raramente,1,Equilibrata,0,Media,1,0
+4.84,3.03,2,2,6,***,-999,Spesso,2,Carboidrati,2,Media,1,1
+9.69,6.25,3,3,1,Miglioramento muscolare,1,Spesso,2,***,1,Media,1,0
+4.61,2.14,2,2,1,Perdita peso,0,Mai,0,Equilibrata,-999,Alta,0,1
+,3.24,3,2,2,Miglioramento muscolare,1,Raramente,-999,***,1,Media,1,1
+7.33,4.45,2,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+9.63,5.1,3,4,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+4.54,2.1,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+5.58,3.56,2,2,1,Miglioramento muscolare,1,Spesso,2,Carboidrati,-999,Bassa,2,1
+10.33,5.79,3,3,5,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+11.73,6.0,-999,4,7,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+5.8,4.24,1,2,0,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+4.53,2.7,1,2,6,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+4.19,3.42,1,1,2,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+6.4,3.35,2,2,5,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,1
+13.25,6.26,-999,4,6,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+8.62,4.42,2,3,4,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Media,1,1
+8.65,4.49,-999,4,0,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+11.99,6.29,3,4,5,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+11.63,5.17,4,5,4,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+9.09,4.55,4,3,2,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+10.97,5.25,4,4,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+8.08,,3,2,4,Allenamento cardiovascolare,2,***,1,Carboidrati,2,Media,1,0
+5.41,,2,2,7,Miglioramento muscolare,1,Spesso,2,Proteica,1,Bassa,2,1
+8.43,5.06,3,3,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+7.06,4.48,2,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,-999,-999
+6.92,4.54,1,2,3,Perdita peso,0,Mai,0,Equilibrata,-999,Media,1,1
+2.25,1.71,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+5.88,3.49,2,1,1,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,0,1
+7.16,3.03,2,1,5,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+5.75,2.71,1,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+7.02,3.24,4,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.46,3.84,2,3,5,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,0
+4.53,1.96,-999,-999,-999,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+8.69,5.12,3,3,4,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+3.65,2.43,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.18,4.07,1,4,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,0
+5.94,3.54,2,2,1,Miglioramento muscolare,1,Mai,0,Proteica,1,Alta,0,1
+2.37,2.17,1,1,1,Perdita peso,0,Raramente,1,Equilibrata,-999,***,0,1
+7.98,3.81,3,-999,-999,Altro,3,Spesso,2,Carboidrati,2,Alta,0,0
+7.85,4.34,3,3,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+1.42,2.6,1,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+10.26,5.81,4,4,3,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+8.58,5.26,4,3,3,***,-999,Spesso,2,Carboidrati,2,Media,1,0
+4.64,2.14,2,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.67,3.19,2,1,0,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Bassa,2,1
+4.93,2.09,1,2,2,Perdita peso,0,Mai,-999,***,-999,Alta,0,-999
+8.16,3.88,3,3,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+7.46,,3,2,4,Miglioramento muscolare,1,Spesso,2,Proteica,1,Bassa,2,0
+7.91,4.01,3,2,3,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+10.12,5.01,3,3,1,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Bassa,2,0
+,5.94,3,4,3,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+9.58,5.21,3,3,4,Altro,3,Spesso,2,Proteica,1,Bassa,2,0
+8.91,4.82,3,4,4,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+10.47,4.64,-999,4,1,Allenamento cardiovascolare,2,Sempre,3,***,3,Bassa,2,0
+11.74,5.89,4,4,1,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+4.27,1.8,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+7.69,4.32,-999,1,0,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+8.56,5.19,4,3,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+10.06,4.37,4,4,2,Altro,3,***,2,Altro,3,Media,1,0
+,5.91,3,4,1,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+6.46,4.72,3,1,5,Perdita peso,0,Raramente,-999,***,1,Bassa,2,1
+6.94,4.69,-999,2,5,Perdita peso,0,Spesso,2,Equilibrata,0,Bassa,-999,-999
+9.16,4.77,3,3,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+9.46,4.57,3,3,2,***,-999,Raramente,1,Carboidrati,2,Bassa,2,0
+4.66,2.71,1,1,6,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+7.31,4.49,3,3,5,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+13.42,6.77,3,4,5,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,0
+7.04,3.17,1,2,2,Perdita peso,0,Mai,-999,***,1,Alta,0,1
+10.77,5.28,4,3,3,Altro,3,Spesso,2,Altro,3,Media,1,0
+7.52,3.99,2,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+8.98,4.55,-999,4,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+5.91,4.27,-999,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Bassa,2,1
+5.19,3.42,-999,2,4,Miglioramento muscolare,1,Spesso,2,Equilibrata,0,Media,1,1
+6.11,2.65,1,1,3,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,-999
+8.02,3.86,-999,4,1,***,-999,Raramente,1,Proteica,-999,Media,1,0
+8.07,3.93,3,4,0,***,-999,Spesso,2,Carboidrati,2,Media,1,0
+4.25,2.5,1,1,1,Perdita peso,0,Mai,0,***,0,Media,1,1
+7.52,4.54,3,3,2,Miglioramento muscolare,1,***,2,Carboidrati,2,Media,1,0
+7.06,3.69,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.08,,3,1,4,Miglioramento muscolare,1,Raramente,1,Carboidrati,-999,Bassa,2,1
+7.62,4.0,3,3,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Alta,0,0
+5.8,3.68,1,3,1,***,-999,Spesso,2,Proteica,1,Alta,0,1
+4.96,2.99,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+10.08,5.33,3,-999,-999,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,0
+9.43,5.22,4,3,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+5.24,3.34,2,2,4,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Alta,0,1
+10.43,5.74,3,4,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+9.47,5.95,2,3,2,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,0
+9.75,4.77,4,4,5,Altro,3,Spesso,2,Altro,-999,***,0,0
+10.38,5.44,3,4,2,Altro,3,Sempre,3,Proteica,1,Media,1,0
+11.43,6.43,4,4,4,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+2.3,1.78,1,2,4,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+9.23,4.81,-999,4,3,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,-999,Media,1,0
+6.18,2.58,3,3,4,Altro,3,Sempre,3,Altro,3,Bassa,2,1
+4.52,3.28,1,1,1,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+4.95,2.77,1,3,1,Perdita peso,0,Raramente,1,***,0,Media,1,1
+2.88,2.94,1,2,8,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+2.02,2.0,1,1,2,***,0,Mai,0,Equilibrata,0,Alta,0,1
+6.61,4.31,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+6.35,2.9,2,4,3,***,-999,Spesso,2,Proteica,1,Media,1,0
+2.09,2.47,1,1,1,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+4.77,3.02,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+6.35,3.46,2,2,1,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+5.99,4.14,1,2,4,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+,4.74,2,2,1,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Bassa,2,1
+4.06,2.17,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.43,3.82,1,2,8,Perdita peso,0,***,0,Equilibrata,0,Alta,0,1
+8.61,4.46,2,2,5,Miglioramento muscolare,1,Raramente,1,Carboidrati,-999,***,1,1
+1.69,2.81,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+9.66,5.08,3,-999,-999,Allenamento cardiovascolare,2,Raramente,-999,***,2,Alta,0,0
+8.75,4.32,3,4,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Alta,0,0
+6.23,3.69,1,3,4,***,-999,Raramente,1,Equilibrata,0,Media,1,-999
+5.1,3.2,1,1,1,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+8.21,4.44,3,4,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+9.59,5.18,4,3,2,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+5.07,2.91,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.37,4.09,3,4,4,Altro,3,Sempre,3,Carboidrati,2,Bassa,-999,-999
+4.57,3.05,1,1,1,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+10.7,5.84,3,3,4,Altro,3,Spesso,2,Proteica,1,Bassa,2,0
+3.05,1.33,1,2,4,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+7.67,3.9,3,4,4,Altro,3,Spesso,2,***,2,Media,-999,-999
+,3.02,2,4,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Alta,0,0
+5.26,3.17,1,1,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+9.8,4.89,4,4,4,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+5.77,3.99,-999,2,2,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+8.48,4.27,-999,3,4,Altro,3,Spesso,2,***,2,Bassa,2,0
+10.21,5.01,4,4,2,Altro,3,Spesso,2,Altro,-999,***,2,0
+8.89,4.18,3,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+5.78,3.33,2,2,1,***,0,Mai,0,Proteica,1,Media,1,1
+9.11,5.68,2,2,4,Miglioramento muscolare,1,***,1,Proteica,1,Media,-999,-999
+3.1,2.27,1,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+9.74,4.49,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+9.88,5.06,4,4,1,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+7.34,3.5,3,3,2,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,-999,Bassa,2,0
+7.36,3.39,2,2,3,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+5.85,2.98,2,2,0,Miglioramento muscolare,1,***,1,Carboidrati,2,Media,1,1
+9.64,4.57,4,4,3,Altro,3,Sempre,3,Altro,-999,***,1,0
+9.2,4.86,3,2,3,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+5.4,,1,-999,-999,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+,2.71,-999,3,3,Miglioramento muscolare,1,Spesso,2,Altro,3,Bassa,2,1
+8.2,,2,2,4,Miglioramento muscolare,1,Mai,0,Carboidrati,2,Media,1,1
+8.65,4.74,3,4,0,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,-999
+8.05,3.35,4,3,1,Altro,3,Spesso,2,Altro,-999,***,2,0
+9.56,4.9,3,3,0,Altro,3,Raramente,1,Carboidrati,2,Bassa,2,0
+9.26,5.22,3,2,4,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Bassa,2,0
+10.5,4.59,3,4,4,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+5.71,3.1,1,2,2,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+11.78,5.97,3,-999,-999,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+9.31,5.3,3,4,8,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Media,1,0
+11.33,5.66,3,4,5,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+7.35,3.8,-999,3,4,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,0
+5.32,3.56,1,2,2,Perdita peso,0,Raramente,-999,***,0,Media,1,1
+9.98,,3,4,3,Altro,3,Sempre,3,Altro,-999,***,1,0
+7.56,4.12,1,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Bassa,2,1
+9.5,5.66,4,4,4,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+7.61,4.91,3,4,7,Allenamento cardiovascolare,2,Sempre,-999,***,2,Media,1,0
+10.14,4.63,3,4,2,Altro,3,Raramente,1,Carboidrati,2,Media,1,0
+7.44,3.55,1,2,2,Miglioramento muscolare,1,Raramente,1,Proteica,1,Alta,0,1
+3.62,3.42,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+9.65,5.07,3,3,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+4.97,4.05,1,2,0,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+9.4,4.8,3,3,1,Altro,3,***,3,Carboidrati,2,Media,1,0
+5.97,4.51,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+9.57,5.3,4,4,0,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+7.88,3.98,2,3,0,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Bassa,2,0
+6.68,3.66,2,4,0,Miglioramento muscolare,1,Spesso,-999,***,0,Alta,0,1
+6.61,3.64,1,4,0,Miglioramento muscolare,1,***,2,Equilibrata,0,Alta,-999,-999
+10.8,5.29,4,4,4,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+10.27,4.87,4,4,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+8.5,5.25,3,3,2,Miglioramento muscolare,1,Raramente,1,Carboidrati,-999,Media,1,0
+3.5,2.6,1,2,1,***,-999,Mai,0,Equilibrata,0,Alta,0,1
+8.64,4.6,3,3,1,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+7.32,4.1,3,-999,-999,***,-999,Raramente,1,Carboidrati,2,Bassa,2,0
+8.33,4.6,2,2,4,Miglioramento muscolare,1,Mai,0,Equilibrata,-999,***,1,0
+8.3,4.71,3,3,5,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Bassa,2,0
+6.9,3.79,-999,2,3,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,1
+8.37,4.02,3,2,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+7.67,3.67,3,4,5,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Alta,0,0
+10.0,4.83,3,4,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+4.06,,1,2,4,Perdita peso,0,Raramente,1,Proteica,-999,Media,1,1
+5.28,2.69,2,3,5,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Bassa,2,0
+5.65,3.16,2,-999,-999,***,-999,Mai,0,Proteica,1,Media,1,1
+7.92,4.09,1,2,1,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,0,1
+9.08,,3,2,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+10.3,5.32,3,4,4,Altro,3,Sempre,3,Altro,-999,Bassa,2,0
+11.66,5.78,4,4,1,Altro,3,Sempre,3,Carboidrati,-999,Bassa,2,0
+7.55,5.38,2,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,0
+11.55,5.88,4,4,2,***,-999,Spesso,2,Carboidrati,2,Bassa,2,0
+6.41,3.38,2,2,3,Perdita peso,0,***,1,Proteica,1,Alta,0,1
+3.92,3.31,1,2,1,Perdita peso,0,***,1,***,1,Media,1,1
+7.54,4.17,2,-999,-999,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+,1.47,1,1,4,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.44,4.06,2,2,6,Perdita peso,0,Spesso,2,Equilibrata,0,Media,1,1
+6.55,3.81,3,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+4.38,2.45,2,3,4,Miglioramento muscolare,1,Spesso,2,Proteica,1,Alta,0,1
+6.5,3.44,3,-999,-999,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+3.45,2.39,1,1,3,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+10.19,5.84,3,-999,-999,Altro,3,Spesso,-999,***,2,Bassa,2,-999
+1.66,1.66,1,2,5,Perdita peso,0,***,0,Proteica,1,Alta,0,1
+6.65,4.28,2,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,-999
+6.4,3.88,1,2,4,Miglioramento muscolare,1,***,1,Equilibrata,0,Media,1,1
+11.95,5.85,4,4,1,Allenamento cardiovascolare,2,Spesso,-999,***,2,Bassa,2,0
+12.02,5.88,3,4,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+7.74,3.95,2,2,1,Allenamento cardiovascolare,2,Raramente,-999,***,1,Media,1,1
+8.75,4.43,3,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+8.67,4.33,2,2,2,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Bassa,2,-999
+6.62,5.16,1,3,4,Miglioramento muscolare,1,Spesso,2,Equilibrata,0,Alta,0,1
+6.62,4.44,1,2,4,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,0,1
+8.06,3.22,3,3,0,Allenamento cardiovascolare,2,Mai,0,Carboidrati,2,Media,1,0
+3.73,2.26,1,2,5,Perdita peso,0,***,0,Proteica,1,Alta,0,-999
+8.35,3.75,3,4,4,Altro,3,Spesso,2,Carboidrati,2,Media,1,0
+4.38,2.38,2,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+7.96,4.08,2,1,3,Miglioramento muscolare,1,Mai,0,Proteica,1,Alta,0,1
+6.74,3.15,1,3,3,Miglioramento muscolare,1,Raramente,-999,***,0,Alta,0,1
+7.56,5.03,-999,2,2,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,1
+3.31,2.47,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+9.02,3.57,3,3,4,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,-999,-999
+4.67,2.73,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+4.02,2.47,1,2,2,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.22,3.59,-999,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,-999,***,1,1
+9.41,5.47,2,4,0,Allenamento cardiovascolare,2,Sempre,3,Proteica,1,Bassa,2,0
+9.85,,4,3,5,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+10.1,5.2,4,3,4,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+5.03,2.62,1,2,3,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+4.88,2.98,2,2,1,Perdita peso,0,Raramente,1,Carboidrati,2,Media,1,1
+8.96,5.45,3,4,0,Allenamento cardiovascolare,2,Sempre,3,Carboidrati,2,Bassa,2,0
+7.83,4.68,3,3,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Alta,0,0
+7.43,3.79,3,3,4,Miglioramento muscolare,1,Spesso,2,Altro,3,Bassa,2,0
+4.88,3.39,2,3,0,***,-999,Spesso,2,Proteica,1,Media,1,1
+4.37,2.41,2,-999,-999,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,-999
+6.21,2.9,1,2,0,Allenamento cardiovascolare,2,Raramente,-999,***,1,Alta,0,1
+8.62,4.51,3,3,3,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,0
+4.45,3.46,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Media,1,1
+5.47,3.43,2,1,1,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+7.98,4.61,4,1,5,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,0
+6.75,4.05,2,1,0,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+8.69,4.58,2,2,1,Allenamento cardiovascolare,2,Mai,0,Proteica,1,Media,1,1
+9.19,4.83,3,2,6,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Bassa,2,0
+4.04,2.8,1,2,2,***,0,Raramente,1,Proteica,1,Media,1,1
+5.43,,1,2,4,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+7.33,3.96,3,2,2,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+9.3,4.79,3,3,3,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,-999,Media,1,0
+5.21,2.87,2,3,0,Miglioramento muscolare,1,Spesso,2,Proteica,1,Alta,0,1
+9.77,5.19,3,3,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+5.14,2.27,1,2,4,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+3.8,3.02,1,1,2,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+4.95,3.03,2,2,4,Perdita peso,0,Raramente,1,Proteica,-999,***,0,1
+8.46,4.23,4,4,0,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+8.82,4.59,3,4,4,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+8.1,4.64,3,4,1,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Bassa,2,0
+8.3,4.44,-999,3,4,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Media,1,1
+5.93,3.9,2,2,8,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+10.0,4.47,-999,4,2,Altro,3,Raramente,1,Carboidrati,2,Media,1,0
+7.09,4.9,2,2,1,***,-999,Raramente,1,Proteica,1,Media,1,1
+1.05,2.02,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+8.45,4.2,3,4,4,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+13.36,5.88,4,4,4,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+6.56,4.13,2,3,2,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+7.45,3.43,2,3,0,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,0
+8.8,,4,4,5,Altro,3,Spesso,2,Altro,3,Media,1,0
+6.38,3.93,1,2,3,Perdita peso,0,***,1,Equilibrata,-999,***,1,1
+,1.73,1,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Alta,-999,-999
+6.62,3.75,1,2,1,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+4.68,2.68,1,1,2,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Alta,-999,-999
+9.21,3.76,4,4,3,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+5.37,3.29,1,2,1,Miglioramento muscolare,1,Raramente,-999,***,2,Alta,0,1
+5.54,3.12,2,2,5,Perdita peso,0,Mai,0,Proteica,1,Bassa,2,1
+5.34,3.48,1,1,5,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+8.2,4.08,2,2,1,Perdita peso,0,Mai,0,Carboidrati,2,Media,1,1
+4.56,2.66,2,1,0,Perdita peso,0,Mai,0,Proteica,-999,***,0,1
+10.35,4.77,3,-999,-999,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+8.02,4.41,-999,3,4,Allenamento cardiovascolare,2,Spesso,2,Proteica,-999,Media,1,1
+11.69,5.98,3,3,6,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+8.93,4.87,4,2,0,Allenamento cardiovascolare,2,Mai,0,Carboidrati,2,Bassa,2,0
+8.79,4.75,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+13.74,6.25,4,-999,-999,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+6.38,2.71,2,3,8,Miglioramento muscolare,1,Spesso,2,Carboidrati,2,Media,1,0
+10.09,4.92,4,4,2,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Bassa,2,0
+5.86,3.11,1,3,0,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+7.42,4.2,3,2,7,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Media,1,0
+4.67,3.64,1,2,1,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+7.12,3.83,2,4,3,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,0
+,3.11,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+6.15,2.96,2,2,1,Miglioramento muscolare,1,Raramente,-999,***,1,Alta,0,1
+7.08,,3,3,0,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Alta,0,0
+5.61,4.11,3,1,6,Miglioramento muscolare,1,Raramente,1,Proteica,1,Bassa,2,1
+12.23,6.52,3,-999,-999,Altro,3,Sempre,3,Carboidrati,-999,***,2,0
+6.15,3.63,2,3,1,Miglioramento muscolare,1,Spesso,2,Proteica,1,Media,1,1
+4.72,3.51,1,1,5,Perdita peso,0,Mai,-999,***,0,Alta,0,1
+6.5,3.47,4,4,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+7.27,2.94,-999,4,1,Altro,3,***,2,Carboidrati,2,Media,1,0
+4.27,3.1,1,2,0,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+4.64,2.5,1,1,2,Perdita peso,0,Raramente,1,Equilibrata,0,Alta,0,1
+10.23,5.3,4,-999,-999,***,-999,Sempre,3,Carboidrati,2,Bassa,2,0
+8.29,4.58,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+7.51,3.58,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+6.96,2.76,3,4,2,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Media,1,0
+7.3,4.27,2,2,4,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+5.93,3.54,1,2,1,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+6.89,4.35,1,2,2,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+,5.16,-999,2,4,Allenamento cardiovascolare,2,***,1,Carboidrati,2,Bassa,-999,-999
+8.81,,3,3,5,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+6.79,3.55,1,-999,-999,Perdita peso,0,***,1,Equilibrata,0,Media,1,1
+10.79,5.92,3,4,3,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+5.1,2.43,1,2,1,Perdita peso,0,Raramente,1,Equilibrata,0,Media,-999,-999
+11.06,5.29,4,4,1,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+10.53,5.09,4,4,1,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+,3.85,3,2,1,Allenamento cardiovascolare,2,Mai,0,Carboidrati,2,Media,1,0
+6.86,4.03,3,4,1,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,0
+9.16,4.15,3,3,3,***,-999,Raramente,1,Carboidrati,2,Media,1,0
+7.75,5.13,3,4,4,Altro,3,***,3,Altro,3,Media,1,0
+5.34,3.8,2,2,5,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+7.92,4.51,2,2,3,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+4.75,4.2,1,2,0,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+7.33,3.72,4,3,1,Allenamento cardiovascolare,2,Raramente,1,Carboidrati,2,Bassa,2,0
+6.58,3.46,2,3,1,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Media,1,1
+7.18,3.93,3,4,3,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+11.27,5.76,4,3,1,Altro,3,Sempre,-999,***,-999,Media,-999,-999
+7.3,4.7,2,2,3,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+9.42,4.42,4,3,1,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+8.5,3.87,4,4,3,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+3.85,2.68,1,1,4,Perdita peso,0,Mai,-999,***,1,Media,-999,-999
+5.45,3.53,2,2,1,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+5.89,5.06,2,3,1,Miglioramento muscolare,1,Spesso,2,Proteica,1,Alta,0,0
+9.33,4.37,4,3,4,Allenamento cardiovascolare,2,***,2,Carboidrati,-999,***,2,-999
+4.67,3.43,1,2,0,Perdita peso,0,***,-999,***,1,Alta,0,1
+6.68,3.93,3,2,5,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,0
+6.22,4.07,-999,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,-999
+8.57,4.79,3,3,4,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+11.49,5.85,3,3,1,Allenamento cardiovascolare,2,Sempre,3,Altro,3,Bassa,2,0
+8.2,4.64,4,-999,-999,Altro,3,Sempre,3,Altro,3,Bassa,2,0
+6.21,3.09,2,3,1,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Media,1,1
+7.89,,3,2,0,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+7.44,4.54,2,2,4,Perdita peso,0,Raramente,1,Proteica,1,Media,1,1
+6.79,4.35,3,3,4,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Media,1,0
+6.77,3.75,2,3,0,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+10.36,4.74,3,4,4,Altro,3,Spesso,2,Altro,3,Media,1,0
+6.89,,2,2,1,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+,4.73,4,4,3,Altro,3,Spesso,-999,***,-999,***,2,0
+,4.85,3,3,1,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+5.91,3.57,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+6.34,2.61,2,3,2,Miglioramento muscolare,1,Mai,0,Proteica,1,Alta,0,1
+4.96,3.11,2,2,5,Perdita peso,0,Mai,0,Proteica,1,Media,1,1
+6.77,3.65,1,2,1,Perdita peso,0,Mai,0,Proteica,1,Alta,0,1
+6.51,3.92,2,2,4,Miglioramento muscolare,1,Raramente,1,Proteica,1,Media,1,1
+6.45,3.71,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Media,1,1
+10.17,5.16,3,4,4,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+2.45,1.73,1,2,0,Perdita peso,0,Raramente,1,Proteica,1,Alta,0,1
+11.02,5.17,3,4,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+7.81,3.78,4,2,5,Allenamento cardiovascolare,2,Mai,0,Carboidrati,2,Media,1,0
+13.39,6.07,4,4,4,Altro,3,Spesso,2,Altro,3,Bassa,2,0
+9.31,4.99,3,4,2,Altro,3,Raramente,1,Carboidrati,2,Media,1,0
+6.49,3.31,4,4,4,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+8.43,4.01,2,2,1,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Alta,0,0
+6.92,3.79,2,2,1,Miglioramento muscolare,1,Mai,0,Proteica,1,Media,1,1
+,5.83,-999,-999,-999,Allenamento cardiovascolare,2,Spesso,-999,***,3,Bassa,2,0
+5.83,3.88,1,3,1,Perdita peso,0,Spesso,2,Proteica,1,Alta,0,1
+10.5,5.37,4,3,3,***,-999,Sempre,3,Carboidrati,2,Bassa,2,0
+8.44,4.49,3,3,2,Altro,3,Spesso,2,Proteica,1,Bassa,2,0
+6.2,2.25,2,4,1,***,-999,Spesso,2,Proteica,1,Alta,0,1
+7.17,3.97,3,3,6,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,0
+7.88,4.14,1,2,3,Miglioramento muscolare,1,Mai,0,Equilibrata,0,Media,1,1
+8.6,4.09,2,4,3,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Bassa,2,0
+5.45,3.21,1,2,5,Miglioramento muscolare,1,Raramente,1,Equilibrata,0,Alta,0,1
+8.35,4.41,1,3,4,Allenamento cardiovascolare,2,Raramente,1,Proteica,1,Alta,0,1
+10.66,5.39,4,4,2,Altro,3,Spesso,2,Carboidrati,2,Bassa,2,0
+7.29,3.49,3,3,1,Miglioramento muscolare,1,Raramente,1,Carboidrati,2,Media,1,0
+6.31,3.97,3,2,1,Allenamento cardiovascolare,2,Spesso,2,Carboidrati,2,Bassa,2,1
+9.31,3.9,2,4,4,Allenamento cardiovascolare,2,Spesso,2,Proteica,1,Alta,0,0
+9.55,4.88,3,4,3,Allenamento cardiovascolare,2,Spesso,2,Altro,3,Bassa,2,0
+9.86,5.68,3,4,1,Altro,3,Sempre,3,Carboidrati,2,Media,1,0
+5.91,3.6,1,3,3,Allenamento cardiovascolare,2,Spesso,2,***,0,Media,1,1
+3.55,3.39,1,1,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+12.5,5.56,4,4,1,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+5.3,2.74,2,1,1,Perdita peso,0,Mai,0,Equilibrata,-999,Alta,0,1
+5.59,3.06,1,2,1,Perdita peso,0,Mai,0,Equilibrata,0,Alta,0,1
+10.11,5.69,3,4,2,Altro,3,Sempre,3,Carboidrati,2,Bassa,2,0
+7.81,4.54,2,2,6,Perdita peso,0,Raramente,1,Proteica,1,Media,1,0
+3.97,1.91,1,2,0,***,-999,Mai,0,Equilibrata,-999,Alta,0,1
